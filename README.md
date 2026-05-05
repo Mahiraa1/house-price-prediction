@@ -27,5 +27,3 @@ The model file is not uploaded due to size limit. You can run the notebook to tr
 
 ## Author
 Mahira Ansari
-
-Your Name
